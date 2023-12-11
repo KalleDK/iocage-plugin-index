@@ -3,10 +3,12 @@
   "release": "13.1-RELEASE",
   "artifact": "https://github.com/KalleDK/iocage-plugin-resticserver.git",
   "properties": {
-    "dhcp": 1
+    "dhcp": 1,
+    "ip6": "inherit"
   },
   "pkgs": [
-    "sysutils/rest-server"
+    "sysutils/rest-server",
+    "security/lego"
   ],
   "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
   "fingerprints": {
@@ -18,5 +20,5 @@
     ]
   },
   "official": false,
-  "revision": 1
+  "revision": 2
 }
