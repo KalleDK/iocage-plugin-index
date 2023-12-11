@@ -1,6 +1,6 @@
 {
   "name": "RestServer",
-  "release": "13.2-RELEASE",
+  "release": "13.1-RELEASE",
   "artifact": "https://github.com/KalleDK/iocage-plugin-resticserver.git",
   "properties": {
     "dhcp": 1
