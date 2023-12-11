@@ -506,8 +506,8 @@
 		"category": "content",
 		"homepage": "https://readarr.com"
 	},
-	"rest-server": {
-		"MANIFEST": "rest-server.json",
+	"resticserver": {
+		"MANIFEST": "resticserver.json",
 		"name": "Rest Server",
 		"icon": "https://github.com/KalleDK/iocage-plugin-index/raw/master/icons/rest-server.png",
 		"description": "Restic is a modern backup program that can back up your files.",

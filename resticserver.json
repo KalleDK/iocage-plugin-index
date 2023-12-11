@@ -1,5 +1,5 @@
 {
-  "name": "RestServer",
+  "name": "ResticServer",
   "release": "13.1-RELEASE",
   "artifact": "https://github.com/KalleDK/iocage-plugin-resticserver.git",
   "properties": {
