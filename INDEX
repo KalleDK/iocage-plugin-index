@@ -337,6 +337,16 @@
 		"category": "entertainment",
 		"homepage": "https://github.com/zorchenhimer/MovieNight"
 	},
+	"movietools": {
+		"MANIFEST": "movietools.json",
+		"name": "Movie Tools",
+		"icon": "https://github.com/KalleDK/iocage-plugin-index/raw/master/icons/movietools.png",
+		"description": "Collection of tools to manage your movie library.",
+		"official": false,
+		"primary_pkg": "mkvtoolnix-nogui",
+		"category": "entertainment",
+		"homepage": "https://mkvtoolnix.download/"
+	},
 	"n8n": {
 		"MANIFEST": "n8n.json",
 		"description": "Extendable workflow automation",
